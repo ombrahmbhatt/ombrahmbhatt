@@ -3,7 +3,7 @@
          height="45"
          width="45" /> 
 <div style="display:flex;">
-<img alt="App image" src="gif/om.gif" width="100%">
+<img alt="App image" src="gif/profile.gif" width="100%">
 </div>
 <!--
 **ombrahmbhatt/ombrahmbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
