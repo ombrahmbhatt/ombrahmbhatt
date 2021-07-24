@@ -1,6 +1,59 @@
 <div style="display:flex;">
 <img alt="App image" src="gif/profile.gif" width="100%">
 </div>
+
+```js
+import FullStackEngineer from 'ombrahmbhatt';
+
+class Bio extends FullStackEngineer {
+  name     = 'Om Brahmbhatt';
+  title    = 'IT Engineer';
+  location = 'Anand, Gujarat';
+}
+
+class Skills extends FullStackEngineer {
+  languages  = ['HTML', 'C', 'Python', 'JavaScript', 'PHP', 'Solidity', 'CSS', 'R'];
+  databases  = ['MySQL', 'MongoDB', 'SQLite'];
+  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **ombrahmbhatt/ombrahmbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
