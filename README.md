@@ -14,7 +14,7 @@ class Bio extends FullStackEngineer {
 }
 
 class Skills extends FullStackEngineer {
-  languages  = ['HTML', 'C', 'Python', 'JavaScript', 'PHP', 'Solidity'];
+  languages  = ['HTML', 'Python', 'JavaScript', 'PHP', 'Solidity'];
   databases  = ['MySQL', 'MongoDB', 'SQLite'];
   frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
 }
