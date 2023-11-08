@@ -10,7 +10,7 @@ import FullStackEngineer from 'ombrahmbhatt';
 class Bio extends FullStackEngineer {
   name     = 'Om Brahmbhatt';
   title    = 'IT Engineer';
-  location = 'Anand, Gujarat';
+  location = 'Pennsylvania, USA';
 }
 
 class Skills extends FullStackEngineer {
